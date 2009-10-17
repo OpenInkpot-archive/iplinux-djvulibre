@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: GMapAreas.h,v 1.9 2007/03/25 20:48:31 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _GMAPAREAS_H
 #define _GMAPAREAS_H

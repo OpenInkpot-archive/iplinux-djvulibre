@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qx_imager.h,v 1.8 2007/03/25 20:48:24 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QX_IMAGER
 #define HDR_QX_IMAGER

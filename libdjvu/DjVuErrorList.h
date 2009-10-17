@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuErrorList.h,v 1.10 2007/03/25 20:48:30 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVUERRORLIST_H
 #define _DJVUERRORLIST_H

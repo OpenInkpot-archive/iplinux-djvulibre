@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuDocEditor.cpp,v 1.23 2008/09/28 12:46:14 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

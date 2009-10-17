@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuDocEditor.h,v 1.12 2008/09/28 12:46:14 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVUDOCEDITOR_H
 #define _DJVUDOCEDITOR_H

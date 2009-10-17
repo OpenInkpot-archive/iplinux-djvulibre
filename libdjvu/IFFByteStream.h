@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: IFFByteStream.h,v 1.13 2007/05/19 03:07:34 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _IFFBYTESTREAM_H_
 #define _IFFBYTESTREAM_H_

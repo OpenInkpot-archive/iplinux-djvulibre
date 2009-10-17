@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 //
 // $Id: UnicodeByteStream.h,v 1.11 2009/05/06 12:57:49 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _UNICODEBYTESTREAM_H_
 #define _UNICODEBYTESTREAM_H_

@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: GRect.h,v 1.13 2007/05/19 03:07:33 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _GRECT_H_
 #define _GRECT_H_

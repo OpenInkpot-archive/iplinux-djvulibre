@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuFileCache.h,v 1.9 2007/03/25 20:48:30 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVUFILECACHE_H
 #define _DJVUFILECACHE_H

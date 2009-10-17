@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: debug.cpp,v 1.17 2008/01/27 09:24:35 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

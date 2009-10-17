@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: GSmartPointer.h,v 1.16 2008/03/05 01:44:20 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _GSMARTPOINTER_H_
 #define _GSMARTPOINTER_H_

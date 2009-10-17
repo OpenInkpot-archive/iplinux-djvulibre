@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qd_print_dialog.cpp,v 1.31 2008/08/19 12:34:31 bpearlmutter Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: prefs.h,v 1.12 2008/03/17 12:26:00 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_PREFS
 #define HDR_PREFS

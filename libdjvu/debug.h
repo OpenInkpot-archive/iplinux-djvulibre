@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: debug.h,v 1.14 2007/05/12 18:53:31 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DEBUG_H_
 #define _DEBUG_H_

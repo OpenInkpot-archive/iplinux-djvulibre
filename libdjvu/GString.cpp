@@ -53,8 +53,8 @@
 //C- | MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 //C- +------------------------------------------------------------------
 // 
-// $Id: GString.cpp,v 1.27 2009/05/17 23:57:42 leonb Exp $
-// $Name: release_3_5_22 $
+// $Id: GString.cpp,v 1.28 2009/07/30 01:59:28 leonb Exp $
+// $Name: debian_version_3_5_22-6 $
 
 // From: Leon Bottou, 1/31/2002
 // This file has very little to do with my initial implementation.
@@ -1297,7 +1297,7 @@ GStringRep::giswspace(const unsigned long w)
 #if HAS_WCTYPE
   return iswspace((wchar_t)w);
 #else
-  if (w & ~0xff) || isspace((int)(w & 0xff));
+  return (w & ~0xff) || isspace((int)(w & 0xff));
 #endif
 }
 

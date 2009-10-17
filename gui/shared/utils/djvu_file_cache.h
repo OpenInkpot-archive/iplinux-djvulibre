@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: djvu_file_cache.h,v 1.7 2007/03/25 20:48:28 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_DJVU_FILE_CACHE
 #define HDR_DJVU_FILE_CACHE

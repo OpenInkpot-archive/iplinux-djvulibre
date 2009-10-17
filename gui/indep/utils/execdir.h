@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: execdir.h,v 1.9 2007/03/25 20:48:24 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_EXECDIR
 #define HDR_EXECDIR

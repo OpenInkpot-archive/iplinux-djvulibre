@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: GException.h,v 1.13 2007/12/26 09:05:26 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _GEXCEPTION_H_
 #define _GEXCEPTION_H_

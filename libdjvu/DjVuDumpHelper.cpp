@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuDumpHelper.cpp,v 1.11 2008/02/26 05:07:40 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

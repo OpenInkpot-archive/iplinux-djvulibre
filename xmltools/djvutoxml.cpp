@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: djvutoxml.cpp,v 1.9 2008/01/27 11:36:30 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qlib.h,v 1.15 2007/03/25 20:48:23 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QLIB
 #define HDR_QLIB

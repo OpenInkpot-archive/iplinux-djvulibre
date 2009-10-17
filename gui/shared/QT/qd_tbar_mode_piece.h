@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qd_tbar_mode_piece.h,v 1.10 2007/03/25 20:48:26 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QD_TBAR_MODE_PIECE
 #define HDR_QD_TBAR_MODE_PIECE

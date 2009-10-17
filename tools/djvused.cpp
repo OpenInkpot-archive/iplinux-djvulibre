@@ -53,8 +53,8 @@
 //C- | MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 //C- +------------------------------------------------------------------
 //
-// $Id: djvused.cpp,v 1.34 2008/08/05 20:48:20 bpearlmutter Exp $
-// $Name: release_3_5_22 $
+// $Id: djvused.cpp,v 1.35 2009/10/17 17:17:03 bpearlmutter Exp $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"
@@ -982,7 +982,7 @@ command_print_meta(ParsingByteStream &)
       GP<DjVmDir::File> frec = g().doc->get_djvm_dir()->get_shared_anno_file();
       if (frec)
         {
-          vprint("print-meta: implicitely selecting shared annotations");
+          vprint("print-meta: implicitly selecting shared annotations");
           select_clear();
           select_add(frec);
         }
@@ -1101,11 +1101,11 @@ command_set_meta(ParsingByteStream &pbs)
       GP<DjVmDir::File> frec = g().doc->get_djvm_dir()->get_shared_anno_file();
       if (frec)
         {
-          vprint("print-meta: implicitely selecting shared annotations.");
+          vprint("print-meta: implicitly selecting shared annotations.");
         }
       else if (metadata.size() > 0)
         {
-          vprint("print-meta: implicitely creating and selecting shared annotations.");
+          vprint("print-meta: implicitly creating and selecting shared annotations.");
           g().doc->create_shared_anno_file();
           frec = g().doc->get_djvm_dir()->get_shared_anno_file();
         }

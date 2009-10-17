@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuPort.h,v 1.11 2007/07/14 01:21:56 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVUPORT_H
 #define _DJVUPORT_H

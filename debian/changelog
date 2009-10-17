@@ -1,8 +1,47 @@
-djvulibre (3.5.22-1rc) unstable; urgency=low
+djvulibre (3.5.22-6) unstable; urgency=low
 
+  * patch for typos, thanks Jakub Wilk <ubanus@users.sf.net> (closes: #551109)
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Sat, 17 Oct 2009 18:16:19 +0100
+
+djvulibre (3.5.22-5) unstable; urgency=low
+
+  * dh ${misc:Depends} for straggler binary packages
+  * sh4 patch from Nobuhiro Iwamatsu <iwamatsu@nigauri.org> (closes: #550172)
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Thu, 08 Oct 2009 13:56:34 +0100
+
+djvulibre (3.5.22-4) unstable; urgency=low
+
+  * Clean lintian issues:
+    - rev deb std
+    - cease ignoring errors in installation scripts
+    - debug package into section: debug
+    - dh ${misc:Depends} for all packages
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Fri, 25 Sep 2009 22:43:51 -0400
+
+djvulibre (3.5.22-3) unstable; urgency=low
+
+  * Compensate for change in dh_install {,} handling (closes: #538394)
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Fri, 31 Jul 2009 15:02:11 +0100
+
+djvulibre (3.5.22-2) unstable; urgency=low
+
+  * Invoke Elder Gods Horror to skirt libtool issue (closes: #512252), see
+    debian/rules "Cthulhu"
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Tue, 21 Jul 2009 13:09:57 +0200
+
+djvulibre (3.5.22-1) unstable; urgency=low
+
+  [ Leon Bottou ]
   * Upstream release candidate
   
- -- Leon Bottou <leonb@users.sourceforge.net>  Wed, 5 May 2009 11:19:00 +0500
+  [ Barak A. Pearlmutter ]
+
+ -- Barak A. Pearlmutter <bap@debian.org>  Tue, 23 Jun 2009 22:53:13 +0200
 
 djvulibre (3.5.21-3) unstable; urgency=low
 

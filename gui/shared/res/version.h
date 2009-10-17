@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: version.h,v 1.9 2007/03/25 20:48:28 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_VERSION
 #define HDR_VERSION

@@ -18,7 +18,7 @@
 # DjVuLibre-3.5 is derived from the DjVu(r) Reference Library
 # distribued by Lizardtech Software.
 #
-# $Id: configure.ac,v 1.99 2009/05/21 15:15:50 leonb Exp $
+# $Id: configure.ac,v 1.100 2009/08/07 12:02:14 leonb Exp $
 #
 # ----------------------------------------
 # Initialization
@@ -26,7 +26,7 @@
 
 AC_PREREQ(2.50)
 AC_INIT(djvulibre, 3.5.22)
-AC_REVISION($Id: configure.ac,v 1.99 2009/05/21 15:15:50 leonb Exp $)
+AC_REVISION($Id: configure.ac,v 1.100 2009/08/07 12:02:14 leonb Exp $)
 AC_CONFIG_AUX_DIR(config)
 AC_CONFIG_SRCDIR(INSTALL)
 AC_CONFIG_HEADER(config.h:config/config.h.in)
@@ -157,6 +157,7 @@ AC_TYPE_UINT32_T
 AC_CHECK_TYPES(wchar_t)
 AC_CHECK_TYPES(long long int)
 AC_CHECK_TYPES(mbstate_t,,,[#include "wchar.h"])
+AC_SYS_LARGEFILE
 
 # ----------------------------------------
 # Functions
@@ -164,6 +165,7 @@ AC_CHECK_TYPES(mbstate_t,,,[#include "wchar.h"])
 
 AC_FUNC_MMAP
 AC_FUNC_FORK
+AC_FUNC_FSEEKO
 AC_CHECK_FUNCS(wcrtomb iswspace setenv)
 AC_CHECK_FUNCS(putc_unlocked strerror vsnprintf)
 AC_CHECK_FUNCS(gethostname strftime getpwuid)

@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: dispatch.cpp,v 1.18 2008/08/06 12:21:23 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

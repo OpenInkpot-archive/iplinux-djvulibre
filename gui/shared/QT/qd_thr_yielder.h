@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qd_thr_yielder.h,v 1.7 2007/03/25 20:48:27 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QD_THR_YIELDER
 #define HDR_QD_THR_YIELDER

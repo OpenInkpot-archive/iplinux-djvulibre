@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: GContainer.h,v 1.21 2008/01/07 11:48:52 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _GCONTAINER_H_
 #define _GCONTAINER_H_

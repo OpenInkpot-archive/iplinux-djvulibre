@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qd_viewer_shell.h,v 1.12 2007/03/25 20:48:23 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QD_VIEWER_SHELL
 #define HDR_QD_VIEWER_SHELL

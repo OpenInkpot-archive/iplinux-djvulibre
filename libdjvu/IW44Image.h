@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: IW44Image.h,v 1.13 2007/05/19 03:07:34 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef IW44IMAGE_H_
 #define IW44IMAGE_H_

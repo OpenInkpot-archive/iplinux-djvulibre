@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: col_db.cpp,v 1.8 2008/03/17 12:18:34 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

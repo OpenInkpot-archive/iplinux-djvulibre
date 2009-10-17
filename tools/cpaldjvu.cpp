@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: cpaldjvu.cpp,v 1.16 2008/05/05 02:24:40 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

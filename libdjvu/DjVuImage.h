@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVuImage.h,v 1.11 2007/05/19 03:07:33 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVUIMAGE_H
 #define _DJVUIMAGE_H

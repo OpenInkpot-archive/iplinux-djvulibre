@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVmDoc.h,v 1.12 2007/05/19 03:07:33 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVMDOC_H
 #define _DJVMDOC_H

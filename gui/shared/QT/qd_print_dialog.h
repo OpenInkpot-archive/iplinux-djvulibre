@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qd_print_dialog.h,v 1.16 2007/03/25 20:48:26 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QD_PRINT_DIALOG
 #define HDR_QD_PRINT_DIALOG

@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: bin2cpp.cpp,v 1.7 2007/03/25 20:48:22 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 #include "config.h"

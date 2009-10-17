@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: DjVmDir.h,v 1.14 2007/07/29 16:23:51 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _DJVMDIR_H
 #define _DJVMDIR_H

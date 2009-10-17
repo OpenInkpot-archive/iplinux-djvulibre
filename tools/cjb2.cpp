@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: cjb2.cpp,v 1.18 2007/05/19 03:07:34 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"

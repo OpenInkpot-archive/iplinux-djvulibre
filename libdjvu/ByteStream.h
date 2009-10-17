@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: ByteStream.h,v 1.16 2007/05/19 03:07:33 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef _BYTESTREAM_H
 #define _BYTESTREAM_H

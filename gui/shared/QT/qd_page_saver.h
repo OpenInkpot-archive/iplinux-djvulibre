@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: qd_page_saver.h,v 1.8 2007/03/25 20:48:25 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_QD_PAGE_SAVER
 #define HDR_QD_PAGE_SAVER

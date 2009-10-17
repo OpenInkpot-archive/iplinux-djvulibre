@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: col_db.h,v 1.9 2008/03/16 14:07:06 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifndef HDR_COL_DB
 #define HDR_COL_DB

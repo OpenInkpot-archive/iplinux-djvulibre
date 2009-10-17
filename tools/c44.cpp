@@ -54,7 +54,7 @@
 //C- +------------------------------------------------------------------
 // 
 // $Id: c44.cpp,v 1.14 2008/01/11 14:46:56 leonb Exp $
-// $Name: release_3_5_22 $
+// $Name: debian_version_3_5_22-6 $
 
 #ifdef HAVE_CONFIG_H
 # include "config.h"
