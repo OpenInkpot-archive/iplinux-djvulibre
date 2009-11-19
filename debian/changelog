@@ -1,3 +1,9 @@
+djvulibre (3.5.22-6.oi2) asimov; urgency=low
+
+  * Fix dependencies
+
+ -- Alexander Kerner <lunohod@openinkpot.org>  Thu, 19 Nov 2009 02:21:46 +0100
+
 djvulibre (3.5.22-6.oi1) asimov; urgency=low
 
   * First IPlinux build
