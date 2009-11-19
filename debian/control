@@ -29,7 +29,7 @@ Description: Development files for the DjVu image format
 
 Package: libdjvulibre21
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, libdjvulibre-text (>= ${binary:Version})
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Conflicts: libdjvulibre1
 Replaces: libdjvulibre1, libdjvulibre15
 Description: Runtime support for the DjVu image format
