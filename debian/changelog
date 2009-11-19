@@ -1,3 +1,9 @@
+djvulibre (3.5.22-6.oi1) asimov; urgency=low
+
+  * First IPlinux build
+
+ -- Alexander Kerner <lunohod@openinkpot.org>  Thu, 19 Nov 2009 00:44:32 +0000
+
 djvulibre (3.5.22-6) unstable; urgency=low
 
   * patch for typos, thanks Jakub Wilk <ubanus@users.sf.net> (closes: #551109)
