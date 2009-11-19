@@ -27,7 +27,7 @@ datadir = @datadir@
 libdir = @libdir@
 mandir = @mandir@
 
-SUBDIRS_FIRST = libdjvu tools
+SUBDIRS_FIRST = libdjvu #tools
 
 @XML_YES@SUBDIRS_XML = xmltools
 @XML_NO@SUBDIRS_XML = 
@@ -40,7 +40,7 @@ SUBDIRS_FIRST = libdjvu tools
 
 SUBDIRS_LAST = desktopfiles
 
-SUBDIRS = ${SUBDIRS_FIRST} ${SUBDIRS_XML} \
+SUBDIRS = ${SUBDIRS_FIRST} # ${SUBDIRS_XML} \
           ${SUBDIRS_GUI} ${SUBDIRS_I18N} \
 	  ${SUBDIRS_LAST}
 
@@ -61,9 +61,9 @@ distclean: FORCE
 
 install: install-libdjvu
 
-install: install-utils
+#install: install-utils
 
-install-utils: install-tools
+#install-utils: install-tools
 
 @XML_YES@install-utils: install-xmltools
 
